@@ -1,0 +1,9 @@
+---
+slug: :mikutter_sociality_filter
+depends:
+  mikutter: 3.4.2
+  plugin: []
+version: '1.0'
+author: 'yaaamaaaguuu'
+name: "社会性フィルター"
+description: "にゃーん"
