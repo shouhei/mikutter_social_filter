@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-Plugin.create :mikutter_sociality_filter do
+Plugin.create :mikutter_social_filter do
   module Pango
     class << self
       alias parse_markup_org parse_markup
@@ -10,5 +10,4 @@ Plugin.create :mikutter_sociality_filter do
       end
     end
   end
-  true
 end

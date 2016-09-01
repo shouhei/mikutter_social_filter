@@ -1,5 +1,5 @@
 ---
-slug: :mikutter_sociality_filter
+slug: :mikutter_social_filter
 depends:
   mikutter: 3.4.2
   plugin: []
